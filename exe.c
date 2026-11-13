@@ -42,3 +42,25 @@ int main (void){
     
 }*/
 
+/* // PROGRAM TO WORK WITH INCREMENT AND DECREMENT
+
+int main(void) {
+    int a = 4, b = 3;
+    printf("%d\n", a+++b);
+    printf("a = %d \nb = %d", a, b);
+
+    return 0;
+}
+    */
+
+  /*/  //SCANF
+
+    int main (void) {
+        int a, b;
+        printf("Enter two integers:\n");
+        scanf("%d%d%d", &a, &b);
+        printf("a = %d b = %d %d", a, b);
+        return 0;
+    }
+*/
+
